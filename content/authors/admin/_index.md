@@ -50,10 +50,10 @@ social:
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0ICSFSsAAAAJ&hl=en
   - icon: researchgate
-    icon_pack: fab
+    icon_pack: fas
     link: https://www.researchgate.net/profile/Guang-Zhang-22
-  - icon: graduation-cap
-    icon_pack: fab
+  - icon: graduation-cap 
+    icon_pack: fas
     link: https://bs.usst.edu.cn/Eng/2020/1231/c11753a240576/page.htm
 
 # Link to a PDF of your resume/CV.
