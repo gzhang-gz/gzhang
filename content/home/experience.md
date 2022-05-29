@@ -14,7 +14,7 @@ subtitle: Job \& Educations
 
 # Date format for experience
 #   Refer to https://wowchemy.com/docs/customization/#date-format
-date_format: Aug 2018
+date_format: Jan 2006
 
 # Experiences.
 #   Add/remove as many `experience` items below as you like.
