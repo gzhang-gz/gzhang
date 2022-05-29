@@ -27,6 +27,7 @@ education:
   courses:
     - course: PhD in Econometrics
       institution: Tilburg University
+      url: https://www.tilburguniversity.edu/
       year: 2016-2018
     - course: PhD in Management
       institution: Shanghai University
