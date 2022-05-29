@@ -29,8 +29,8 @@ experience:
     location: Shanghai
     date_start: '2018-08-31'
     date_end: ''
-    description: ->
-        Teaching 
+    description: >-
+        Teaching: 
         * Operations Research A, Operations Research B, 
         * Game Theory, Fuzzy Decision Theory and Analysis, 
         * Introduction to Systems Engineering, Games in Life - Case Study, 
@@ -43,8 +43,8 @@ experience:
     location: Tilburg
     date_start: '2016-09-01'
     date_end: '2018-08-28'
-    description: ->
-        Info
+    description: >-
+        Info:
         * Department of Econometrics \& Operations Research; Economics Group; 
         * Supervisors - Prof. dr. A.J.J.(Dolf) Talman and dr. A.B.(Anna) Khmelnitskaya
 
