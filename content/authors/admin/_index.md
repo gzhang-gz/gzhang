@@ -47,10 +47,10 @@ social:
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
   - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
+    icon_pack: ai
     link: https://scholar.google.com/citations?user=0ICSFSsAAAAJ&hl=en
   - icon: researchgate
-    icon_pack: fas
+    icon_pack: fab
     link: https://www.researchgate.net/profile/Guang-Zhang-22
   - icon: graduation-cap 
     icon_pack: fas
