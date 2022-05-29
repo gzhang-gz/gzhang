@@ -72,4 +72,7 @@ highlight_name: true
 
 Guang Zhang is a Lecturer at the Department of System Science, Business School, University of Shanghai for Science and Technology (USST). His research interests include cooperative games, non-cooperative games and public goods games. 
 
+---
+---
+
  <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
