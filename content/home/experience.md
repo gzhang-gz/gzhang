@@ -33,8 +33,11 @@ experience:
         Teaching: 
 
         * Operations Research A, Operations Research B
+
         * Game Theory, Fuzzy Decision Theory and Analysis
-        * Introduction to Systems Engineering, Games in Life - Case Study 
+
+        * Introduction to Systems Engineering, Games in Life - Case Study
+
         * Multivariate Statistical Analysis, etc. 
 
   - title: PhD candidate 
@@ -47,7 +50,8 @@ experience:
     description: >-
         Info:
 
-        * Department of Econometrics \& Operations Research; Economics Group  
+        * Department of Econometrics \& Operations Research; Economics Group
+        
         * Supervisors - Prof. dr. A.J.J.(Dolf) Talman and dr. A.B.(Anna) Khmelnitskaya
 
 design:
