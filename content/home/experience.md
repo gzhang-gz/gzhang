@@ -29,7 +29,7 @@ experience:
     location: Shanghai
     date_start: '2018-08-31'
     date_end: ''
-    description: Teaching Operations Research A, Operations Research B, Fuzzy Decision Theory and Analysis, Introduction to Systems Engineering, Games in Life - Case Study, Multivariate Statistical Analysis, etc.
+    description: Teaching Operations Research A, Operations Research B, Game Theory, Fuzzy Decision Theory and Analysis, Introduction to Systems Engineering, Games in Life - Case Study, Multivariate Statistical Analysis, etc.
 
 design:
   columns: '2'
