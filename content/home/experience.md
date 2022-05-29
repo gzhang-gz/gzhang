@@ -35,7 +35,7 @@ experience:
   #      * Analysing
   #      * Modelling
   #      * Deploying
-#
+  #
   - title: Lecturer at System Science
     company: University of Shanghai for Science and Technology
     company_url: 'https://usst.edu.cn'
