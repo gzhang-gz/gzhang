@@ -31,6 +31,7 @@ experience:
     date_end: ''
     description: >-
         Teaching: 
+
         * Operations Research A, Operations Research B, 
         * Game Theory, Fuzzy Decision Theory and Analysis, 
         * Introduction to Systems Engineering, Games in Life - Case Study, 
@@ -45,6 +46,7 @@ experience:
     date_end: '2018-08-28'
     description: >-
         Info:
+        
         * Department of Econometrics \& Operations Research; Economics Group; 
         * Supervisors - Prof. dr. A.J.J.(Dolf) Talman and dr. A.B.(Anna) Khmelnitskaya
 
