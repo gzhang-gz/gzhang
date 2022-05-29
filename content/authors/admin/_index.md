@@ -6,7 +6,7 @@ title: Guang Zhang
 superuser: true
 
 # Role/position/tagline
-role: Lecturer of System Science
+role: Lecturer at System Science
 
 # Organizations/Affiliations to show in About widget
 organizations:
