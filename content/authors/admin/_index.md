@@ -46,13 +46,13 @@ social:
 #  - icon: twitter
 #    icon_pack: fab
 #    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  - icon: google-scholar # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=0ICSFSsAAAAJ&hl=en
-#  - icon: github
-#    icon_pack: fab
-#    link: https://github.com/gcushen
-  - icon: linkedin
+  - icon: researchgate
+    icon_pack: fab
+    link: https://www.researchgate.net/profile/Guang-Zhang-22
+  - icon: graduation-cap
     icon_pack: fab
     link: https://bs.usst.edu.cn/Eng/2020/1231/c11753a240576/page.htm
 
