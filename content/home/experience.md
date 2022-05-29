@@ -38,8 +38,8 @@ experience:
   #
   - title: Lecturer at System Science
     company: University of Shanghai for Science and Technology
-    company_url: 'https://usst.edu.cn'
-    company_logo: USST
+    company_url: 'https://www.usst.edu.cn/'
+    company_logo: usst
     location: Shanghai
     date_start: '2018-08-31'
     date_end: ''
