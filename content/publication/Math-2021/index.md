@@ -38,7 +38,7 @@ abstract: How free-riding behavior can be avoided is a constant topic in public 
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
