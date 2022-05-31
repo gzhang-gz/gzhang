@@ -5,9 +5,9 @@ title: '图博弈的过程比例解'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - admin
-  - Wenjun Xiao
-  - Donghua WU
+  - 张广(admin) 
+  - 肖文君
+  - 邬冬华
 
 # Author notes (optional)
 #author_notes:
@@ -27,10 +27,10 @@ publishDate: '2021-12-15T00:00:00Z'
 publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Operations Research Transactions*
-publication_short: In *ORC*
+publication: In *运筹学学报*
+publication_short: In *运筹学学报*
 
-abstract: Omit
+abstract: 略
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
