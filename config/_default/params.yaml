@@ -82,7 +82,7 @@ features:
     disqus:
       shortname: ''
       show_count: false
-    commento:
+    commento: false
       url: ''
   search:
     provider: wowchemy
