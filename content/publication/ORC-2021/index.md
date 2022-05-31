@@ -30,7 +30,7 @@ publication_types: ['2']
 publication: In *运筹学学报*
 publication_short: In *运筹学学报*
 
-abstract: 略
+abstract: 本文对具有图结构合作博弈(图博弈)进行了研究,采用比例原则和过程化分配方法,定义了比例分配过程,并对其性质进行了分析.随后,针对比例分配过程的超有效情况,运用等比例妥协的方式给出满足有效性的过程比例解,并研究了稳定性.最后,将比例分配过程与过程比例解应用到破产问题中,得到图博弈过程比例解与破产问题比例规则等价的结论.
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
