@@ -5,7 +5,7 @@ title: '图博弈的过程比例解'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - 张广(Guang Zhang) 
+  - admit (张广) 
   - 肖文君
   - 邬冬华
 
