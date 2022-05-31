@@ -38,7 +38,7 @@ abstract: 本文对具有图结构合作博弈(图博弈)进行了研究,采用�
 tags: []
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Custom links (uncomment lines below)
 # links:
