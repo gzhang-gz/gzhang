@@ -15,17 +15,23 @@ header:
   image: ''
 ---
 
-+ Job
-   + Lecturer at System Science
-   + [University of Shanghai for Science and Technology](https://www.usst.edu.cn/)
+# Job
+   + Lecturer at System Science, Business School
+   + ![usst 图标](gzhang-gz/gzhang/assets/media/icons/brands/usst.svg)[University of Shanghai for Science and Technology](https://www.usst.edu.cn/)
    + Teaching: 
-       * Operations Research A, Operations Research B
+       * Operations Research A
 
-       * Game Theory, Fuzzy Decision Theory and Analysis
+       * Operations Research B
 
-       * Introduction to Systems Engineering, Games in Life - Case Study
+       * Game Theory
+
+       * Fuzzy Decision Theory and Analysis
+
+       * Introduction to Systems Engineering
+       
+       * Games in Life - Case Study
 
        * Multivariate Statistical Analysis, etc.
 
-+ Educations
+# Educations
 
