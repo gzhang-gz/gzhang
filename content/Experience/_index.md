@@ -36,22 +36,19 @@ header:
 
 ## Educations
 
-> 
->> + PhD candidate of Economics Group at Department of Econometrics \& Operations Research 
->> + [Tilburg University](https://www.tilburguniversity.edu/)
->> + From Sep 2016 to Aug 2018
->> + Supervisors: Prof. dr. A.J.J.(Dolf) Talman and dr. A.B.(Anna) Khmelnitskaya
+> **PhD candidate** at [Tilburg University](https://www.tilburguniversity.edu/)
+> In Economics Group, Department of Econometrics \& Operations Research 
+> From Sep 2016 to Aug 2018
+> Supervisors: Prof. dr. A.J.J.(Dolf) Talman and dr. A.B.(Anna) Khmelnitskaya
 
-> 
->> + PhD candidate at Department of Management Science and Engineering 
->> + [Shanghai University](https://www.shu.edu.cn/)
->> + From Sep 2014 to May 2018
->> + Supervisors: Prof. Erfang Shan
+> **PhD candidate** at [Shanghai University](https://www.shu.edu.cn/)
+> Department of Management Science and Engineering 
+> From Sep 2014 to May 2018
+> Supervisors: Prof. Erfang Shan
 
-> 
->> + PhD candidate at Department of Manthematics 
->> + [Shanghai University](https://www.shu.edu.cn/)
->> + From Sep 2011 to Jul 2014
->> + Supervisors: Prof. Donghua Wu
+> **MSc student** at [Shanghai University](https://www.shu.edu.cn/)
+> Department of Manthematics 
+> From Sep 2011 to Jul 2014
+> Supervisors: Prof. Donghua Wu
 
 
