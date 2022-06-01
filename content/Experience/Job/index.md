@@ -10,24 +10,25 @@ date_format: Jan 2006
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-experience:
-  - title: Lecturer at System Science
-    company: University of Shanghai for Science and Technology
-    company_url: 'https://www.usst.edu.cn/'
-    company_logo: usst
-    location: Shanghai
-    date_start: '2018-08-31'
-    date_end: ''
-    description: >-
-        Teaching: 
+summary:
+  experience:
+    - title: Lecturer at System Science
+      company: University of Shanghai for Science and Technology
+      company_url: 'https://www.usst.edu.cn/'
+      company_logo: usst
+      location: Shanghai
+      date_start: '2018-08-31'
+      date_end: ''
+      description: >-
+          Teaching: 
 
-        * Operations Research A, Operations Research B
+          * Operations Research A, Operations Research B
 
-        * Game Theory, Fuzzy Decision Theory and Analysis
+          * Game Theory, Fuzzy Decision Theory and Analysis
 
-        * Introduction to Systems Engineering, Games in Life - Case Study
+          * Introduction to Systems Engineering, Games in Life - Case Study
 
-        * Multivariate Statistical Analysis, etc. 
+          * Multivariate Statistical Analysis, etc. 
 
 design:
   columns: '2'
