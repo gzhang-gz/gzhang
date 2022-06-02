@@ -28,7 +28,7 @@ publication_types: ['2']
 
 # Publication name and optional abbreviated publication name.
 publication: In *International Journal of Game Theory*
-publication_short: In *Int J Game Theory*
+publication_short: In *IJGT*
 
 abstract: A new value concept, called degree value, is proposed by employing the degree game induced by an original game for hypergraph communication situations (including graph communication situations). We provide an axiomatic characterization of the degree value for arbitrary hypergraph communication situations by applying component efficiency and balanced conference contributions, which is a natural extension of balanced link contributions introduced in Slikker (Int J Game Theory 33:505–514, 2005) for graph communication situations. By comparing the degree value with the position value and the Myerson value, it is verified that the degree value is a new allocation rule that differs from both the Myerson value and the position value, and the degree value highlights the important role of the degree of a player in hypergraph communication situations. Particularly, in a uniform hypergraph communication situation, where every conference contains the same number of players, we show that the degree value coincides with the position value.
 
