@@ -16,23 +16,23 @@ header:
 ---
 
 ## Job
-   + Lecturer at Department of System Science, Business School
-   + [University of Shanghai for Science and Technology](https://www.usst.edu.cn/)
-   + From Aug 2018 to present
-   + Teaching: 
-       * Operations Research A
+   + **Lecturer** at [University of Shanghai for Science and Technology](https://www.usst.edu.cn/)
+       + Department of System Science, Business School
+       + From Aug 2018 to present
+       + Teaching: 
+            * Operations Research A
 
-       * Operations Research B
+            * Operations Research B
 
-       * Game Theory
+            * Game Theory
 
-       * Fuzzy Decision Theory and Analysis
+            * Fuzzy Decision Theory and Analysis
 
-       * Introduction to Systems Engineering
+            * Introduction to Systems Engineering
 
-       * Games in Life - Case Study
+            * Games in Life - Case Study
 
-       * Multivariate Statistical Analysis, etc.
+            * Multivariate Statistical Analysis, etc.
 
 ## Educations
 
