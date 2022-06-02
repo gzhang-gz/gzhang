@@ -10,7 +10,7 @@ authors:
   - 邬冬华
 
 # Author notes (optional)
-author_notes:
+# author_notes:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
