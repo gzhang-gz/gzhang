@@ -1,6 +1,5 @@
 ---
-title: 'Two efficient values of cooperative games with graph structure based on τ
--values'
+title: 'Characterizations of the Position Value for Hypergraph Communication Situations'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -8,7 +7,6 @@ title: 'Two efficient values of cooperative games with graph structure based on 
 authors:
   - admin
   - Erfang Shan
-  - Liying Kang
   - Yanxia Dong
 
 # Author notes (optional)
@@ -16,23 +14,23 @@ authors:
 #  - 'Equal contribution'
 #  - 'Equal contribution'
 
-date: '2016-09-21T00:00:00Z'
-doi: 'https://doi.org/10.1007/s10878-016-0081-1'
+date: '2019-10-12T00:00:00Z'
+doi: 'https://doi.org/10.1007/978-981-15-0657-4_2'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-08-01T00:00:00Z'
+publishDate: '2019-10-12T00:00:00Z'
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ['2']
+publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Journal of Combinatorial Optimization*
-publication_short: In * J Comb Optim*
+publication: In *East Asia Game Theory International Conference 2019*
+publication_short: In *EAGT 2019*
 
-abstract: The paper is devoted to value concepts for cooperative games with a communication structure represented by a graph. Under assumptions that the players partition themselves into ‘components’ before realizing cooperation and the worth of the grand coalition not less than the sum of the worths of all components, the fair distribution of surplus solution and the two-step τ-value are introduced as two efficient values for such games, each of which is an extension of the graph τ-value. For the two efficient values, we discuss their special properties and we provide their axiomatic characterizations in views of those properties. By analysing an example applied to the two values, we conclude that the fair distribution of surplus solution allocates more surplus to the bigger coalitions and favors the powerful players, while the two-step τ-value benefits the vulnerable groups and inspires to form small coalitions.
+abstract: We characterize the position value for arbitrary hypergraph communication situations. The position value is first presented by the Shapley value of the uniform hyperlink game or the k-augmented uniform hyperlink game, which are obtained from a given hypergraph communication situation. These results generalize the non-axiomatic characterization of the position value from communication situations in Kongo (2010) (Int J Game Theory (2010) 39) to hypergraph communication situations. Based on the non-axiomatic characterizations, we further provide an axiomatic characterization of the position value for arbitrary hypergraph communication situations by employing component efficiency and a new property, named partial balanced conference contributions. Partial balanced conference contributions is developed from balanced link contributions in Slikker (2005) (Int J Game Theory (2005) 33).
 
 # Summary. An optional shortened abstract.
 #summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
