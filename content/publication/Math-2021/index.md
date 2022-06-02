@@ -15,7 +15,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2021-08-24T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.3390/math9172034'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-08-20T00:00:00Z'

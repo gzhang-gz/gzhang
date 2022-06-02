@@ -14,7 +14,7 @@ authors:
 #  - 'Equal contribution'
 
 date: '2021-11-08T00:00:00Z'
-doi: ''
+doi: 'https://doi.org/10.1016/j.orl.2021.11.004'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2021-11-08T00:00:00Z'
