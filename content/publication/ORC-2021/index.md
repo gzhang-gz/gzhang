@@ -7,7 +7,7 @@ title: '图博弈的过程比例解'
 authors:
   - 张广(Guang Zhang) 
   - 肖文君
-  - 邬冬华*
+  - 邬冬华
 
 # Author notes (optional)
 author_notes:
