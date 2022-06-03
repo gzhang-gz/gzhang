@@ -1,9 +1,11 @@
 ---
-title: Example Project
-summary: An example of using the in-built project page.
+title: Allocation rules for cooperative games with hypergraph structure
+summary: In this project, we investigate some allocation rules for hypergraph games, which is short for cooperative games with hypergraph structure.
 tags:
-  - Deep Learning
-date: '2016-04-27T00:00:00Z'
+  - Cooperative game
+  - Allocation rule
+  - Hypergraph structure
+date: '2020-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
 external_link: ''
