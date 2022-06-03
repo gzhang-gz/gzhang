@@ -72,6 +72,6 @@ highlight_name: true
 
 I'm a Lecturer at Business School, University of Shanghai for Science and Technology. 
 My research interests include cooperative game theory, non-cooperative game theory and public goods games.
-Several papers had been published with my co-authors in IJGT, MSS, ORL, MMOR, JOCO, and some other Chinese journals.
+Several papers had been published (with my co-authors) in IJGT, MSS, ORL, MMOR, JOCO, and some other Chinese journals.
 
  <!--{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.-->
