@@ -1,6 +1,6 @@
 ---
 title: Allocation rules for cooperative games with hypergraph structure
-summary: In this project, we investigate some allocation rules for hypergraph games, which is short for cooperative games with hypergraph structure.
+summary: In this project, we investigate some allocation rules for hypergraph games, which is short for cooperative games with hypergraph structure, including proposing and characterizing the allocation rules, as well as applications.
 tags:
   - Cooperative game
   - Allocation rule
