@@ -5,6 +5,8 @@ tags:
   - Cooperative game
   - Allocation rule
   - Hypergraph structure
+  - Graph structure
+  - Application
 date: '2020-01-01T00:00:00Z'
 
 # Optional external URL for project (replaces project detail page).
